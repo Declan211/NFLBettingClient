@@ -1,0 +1,9 @@
+.left-chart { 
+    float: left; 
+    width: 50%; 
+  } 
+   
+  .right-chart { 
+    float: right; 
+    width: 50%; 
+  } 
