@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NFLBettingClient/static/css/main.4a7e4dab.css",
+    "main.js": "/NFLBettingClient/static/js/main.f478da4a.js",
+    "index.html": "/NFLBettingClient/index.html",
+    "main.4a7e4dab.css.map": "/NFLBettingClient/static/css/main.4a7e4dab.css.map",
+    "main.f478da4a.js.map": "/NFLBettingClient/static/js/main.f478da4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a7e4dab.css",
+    "static/js/main.f478da4a.js"
+  ]
+}
