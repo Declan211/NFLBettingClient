@@ -182,7 +182,7 @@ function identifyIDs(team) {
         return "CAR"
     }
     if (team == 'Chicago Bears') {
-        return "ARI"
+        return "CHI"
     }
     if (team == 'Cincinnati Bengals') {
         return "CIN"
